@@ -81,9 +81,11 @@ function tieneEmail (usuario) {
 
   if(usuario.email){
     return true;
+  }else{
+    return false;
   }
 
-  return false;
+  
 
 }
 
