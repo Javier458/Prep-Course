@@ -45,7 +45,7 @@ function multiplicarNumeroDesconocidoPorCinco (objetoMisterioso) {
   // Tu código:
   
   return objetoMisterioso.numeroMisterioso * 5;
-a
+
 }
 
 function eliminarPropiedad (objeto, unaPropiedad) {
